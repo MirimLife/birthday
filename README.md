@@ -1,4 +1,35 @@
-# happy-birthday🥳
+# happy-birthday
+
+## 🎉생일 분위기를 맘껏 느껴보세요!🥳
+[생일 축하 받기 🎊](https://mirimlife.github.io/birthday/)
+
+
+## ✒️DESIGN✒️
+아래 사진 누르면 [FIGMA](https://www.figma.com/file/6YQtszNpe5fFsBWgcA8Mdp/%EC%83%9D%EC%9D%BC-%EC%96%BC%EB%A0%88%EB%B2%8C%EB%A0%88?node-id=0%3A1)로 이동해요! ↓↓↓
+<a href="https://www.figma.com/file/6YQtszNpe5fFsBWgcA8Mdp/%EC%83%9D%EC%9D%BC-%EC%96%BC%EB%A0%88%EB%B2%8C%EB%A0%88?node-id=0%3A1"><img width="900" alt="image" src="https://user-images.githubusercontent.com/48716298/165001935-bcaae634-9dc3-416c-af11-c00046eb5136.png" /></a>
+
+
+## 👩‍💻CONTRIBUTORS👨‍💻
+
+<table>
+  <tr height="140px">
+    <td align="center">
+      <a href="https://github.com/areumsheep"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48716298?v=4"/></a>
+      <br />
+      <a href="https://github.com/areumsheep">양아름 📝✒️💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leemainsw"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48716775?v=4"/></a>
+      <br />
+      <a href="https://github.com/Leemainsw">이예슬 📝💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SSSOy"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48789583?v=4"/></a>
+      <br />
+      <a href="https://github.com/SSSOy">박소영 📝💻</a>
+    </td>
+  </tr>
+</table>
 
 ## ✍️CONVENTION✍️
 
